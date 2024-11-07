@@ -4,14 +4,12 @@
 
 <p align="left">
     <a href="https://discord.com/channels/799027393297514537/1239813439136993280">
-        <img src="https://img.shields.io/badge/Community%20Channel%20for%20SWIPs-white?logo=discord">
+        <img src="https://img.shields.io/badge/Community%20Channel%20for%20SWIPs-white?logo=discord"> 
     </a>
+    <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg?style=flat-square" alt="Python">
 </p>
-<h3 align="left">Swarm Improvement Proposal</h3>
+<h3 align="left"><span style="color:orange;">S</span>warm <span style="color:orange;">I</span>mprovement <span style="color:orange;">P</span>roposal</h3>
 </div>
-
-![SWIP Table Aggregator](https://img.shields.io/badge/SWIP-Aggregator-brightgreen.svg?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?style=flat-square)
 
 ## Overview
 
