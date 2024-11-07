@@ -17,6 +17,10 @@
 
 The **SWIP Table Generator** is a Python script that automates the generation of a browsable HTML table from Swarm Improvement Proposal (SWIP) documents. Given SWIP numbers, it fetches metadata from GitHub and displays it in a sortable, styled HTML table. This tool is ideal for Swarm developers and contributors who need a quick, easy way to review SWIP details.
 
+## Preview
+
+![](./assets/screenshot.png)
+
 ## Features
 
 - **Fetch SWIP Data**: Automatically retrieves SWIP data from the provided numbers.
