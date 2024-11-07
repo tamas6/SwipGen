@@ -34,3 +34,13 @@ Clone the repository to your local machine:
 git clone https://github.com/tamas6/SwipGen.git
 cd SwipGen
 ```
+
+## Usage
+
+```zsh
+python SWIP.py
+```
+
+In the following screen please indicate the numbers of the swips you would like to list.
+
+The swip_urls.html file will be located in the folder that you can upload to feed with [swarm-cli](https://github.com/ethersphere/swarm-cli/tree/master)
