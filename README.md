@@ -1,4 +1,4 @@
-# SWIP Table Generator
+# SWIP Table Generator - [demo](https://bee-3.fairdatasociety.org/bzz/ea9e33c16480ef9074928758073345953033640a7dc7f6786273c4c5289cae19/)
 
 Visit [ethersphere/SWIPs](https://github.com/ethersphere/SWIPs)
 
